@@ -5,26 +5,4 @@
 **Assignment:** M1A3 - GitHub Repository Management  
 **University of Arizona**
 
-## 🎯 Learning Goals
-In this assignment, I'm learning:
-- GitHub repository management and organization
-- Professional documentation with markdown
-- Open source collaboration workflows
-- Version control for GIS projects
-
-## 📋 Repository Purpose
-This repository demonstrates GitHub skills including:
-- Creating and organizing project files
-- Writing clear documentation
-- Using GitHub collaborative features (Issues, labels)
-- Implementing proper licensing and project configuration
-
-## 🗂️ Repository Structure
-- `docs/` - Project documentation and learning reflections
-- `scripts/` - Python scripts for GIS workflows
-- `data/` - Placeholder for future spatial data
-
-## 🚀 Usage
-To run the hello script:
-```bash
-python scripts/hello.py
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
