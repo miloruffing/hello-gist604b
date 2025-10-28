@@ -1,6 +1,6 @@
 # Hello GIST 604B
 
-**Student:** [Milo Ruffing]  
+**Student:** Milo Ruffing  
 **Course:** GIST 604B - Open Source GIS  
 **Assignment:** M1A3 - GitHub Repository Management  
 **University of Arizona**
